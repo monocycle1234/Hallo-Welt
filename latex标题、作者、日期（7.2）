@@ -1,0 +1,15 @@
+\documentclass{article} %文档类
+%改成doucmentclass{book}，排版书记，第一页是封面，正文从第二页开始
+\usepackage{ctex} 
+\title{我今天刚开始学Latex}
+\author{monocycle \thanks{email：1234@outlook.com} \and mary}
+%多作者：author{john \and mary}
+%附加信息：\thanks{1234@}
+\date{\today} %\date{\today}直接生成日期
+
+\begin{document}
+\maketitle %正文区里maketitle使标题、作者、日期呈现，maketitle在哪里，标题再哪里，放在正文后面会在正文第二页
+Hello World
+你好
+
+\end{document}
