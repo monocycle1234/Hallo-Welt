@@ -1,0 +1,18 @@
+\documentclass{article} %文档类，反斜杠后接命令
+\usepackage{ctex}
+
+%表示中文，需要导入宏包\usepackage{ctex}，编译器选择XeLatex，或者\documentclass{ctexart}
+
+%begin前是导言区，表示文档模式（基础样式）与宏包导入
+
+\begin{document}
+
+%begin与end之间是正文区，环境
+%如何正文显示百分号，输入/%即可
+%输入{}，还是要/{}
+%如何正文显示反斜杠，输入\textbackslash，作为cmd
+Hello World
+你好
+
+\end{document}
+
