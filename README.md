@@ -8,6 +8,7 @@ This is a place for sociology and Godot 2D/3D learning，with a wide repertorie 
   - **社会学**：社会学理论分享。
   - **lacan图**：latex做的lacan图。
   - **latex学习**：一些实用的代码。
+  - **Godot学习**：游戏开发与创作管理。
 
 </details>
 
