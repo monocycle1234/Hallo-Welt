@@ -23,7 +23,15 @@ This is a place for sociology, Lacanian psychoanalysis and LaTex learing, and of
 > [!WARNING]
 > 游戏开发与创作管理。
 
+<blockquote>
+  <p>
+    <font color="#4B0082"><b>🍇 社会学理论分享 | Sociology Theory</b></font><br>
+    这里记录关于<b>涂尔干、韦伯、布迪厄及结构主义</b>等社会学核心理论的读书笔记、概念图解与文本细读。
+  </p>
+</blockquote>
+
 <p align="center">
+
   <img src="https://img.shields.io/badge/Sociology-4B0082?style=for-the-badge&logo=academicpages&logoColor=white" />
   <img src="https://img.shields.io/badge/Lacanian%20Psychoanalysis-8B0000?style=for-the-badge&logo=eclipserdf&logoColor=white" />
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
