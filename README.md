@@ -5,10 +5,7 @@ This is a place for sociology, Lacanian psychoanalysis and LaTex learing, and of
 
   <br>
 
-  - **社会学**：社会学理论分享。
-  - **lacan图**：latex做的lacan图。
-  - **latex学习**：一些实用的代码。
-  - **Godot学习**：https://www.youtube.com/watch?v=vA-0TL62R9M&list=PL3cGrGHvkwn0sfRucpwMSOMMDvLXKdmv1。
+  - https://www.youtube.com/watch?v=vA-0TL62R9M&list=PL3cGrGHvkwn0sfRucpwMSOMMDvLXKdmv1。
 
 
 </details>
