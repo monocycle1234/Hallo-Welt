@@ -12,8 +12,8 @@ This is a place for sociology and Godot 2D/3D learning，with a wide repertorie 
 </details>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sociology-4B0082?style=for-the-badge&logo=academicpages&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lacanian%20Psychoanalysis-8B0000?style=for-the-badge&logo=eclipserdf&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Goget-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 </p>
