@@ -1,7 +1,7 @@
 This is a place for sociology, Lacanian psychoanalysis and LaTex learing, and of course, Godot 2D/3D learning，with a wide repertorie of pdf and other useful notes.
 
 <details>
-  <summary><b>🔍 阅读资料推荐</b></summary>
+  <summary><b>🔍 阅读学习网站及资料汇总</b></summary>
 
   <br>
 
