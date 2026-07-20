@@ -1,4 +1,4 @@
-This is a place for sociology and Godot 2D/3D learning，with a wide repertorie of pdf and other useful files，and I will upload my notes of coding and shader.
+This is a place for sociology, Lacanian psychoanalysis and LaTex learing, and of course, Godot 2D/3D learning，with a wide repertorie of pdf and other useful notes.
 
 <details>
   <summary><b>🔍 点击展开/收起：这个repo的大致分支</b></summary>
