@@ -10,12 +10,6 @@ This is a place for sociology, Lacanian psychoanalysis and LaTex learing, and of
   - **latex学习**：一些实用的代码。
   - **Godot学习**：游戏开发与创作管理。
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Sociology-4B0082?style=for-the-badge&logo=academicpages&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lacanian%20Psychoanalysis-8B0000?style=for-the-badge&logo=eclipserdf&logoColor=white" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
-  <img src="https://img.shields.io/badge/Goget-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-</p>
 
 </details>
 
@@ -31,3 +25,10 @@ This is a place for sociology, Lacanian psychoanalysis and LaTex learing, and of
 
 > [!WARNING]
 > 最新更新版本为7.20。
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Sociology-4B0082?style=for-the-badge&logo=academicpages&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lacanian%20Psychoanalysis-8B0000?style=for-the-badge&logo=eclipserdf&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Goget-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+</p>
