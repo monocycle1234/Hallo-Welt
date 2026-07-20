@@ -14,7 +14,7 @@ This is a place for sociology, Lacanian psychoanalysis and LaTex learing, and of
 </details>
 
 
-> [社会学]
+> [!NOTE 社会学]
 > 社会学理论分享。
 
 > [拉康精神分析]
