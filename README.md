@@ -1,7 +1,7 @@
 This is a place for sociology, Lacanian psychoanalysis and LaTex learing, and of course, Godot 2D/3D learning，with a wide repertorie of pdf and other useful notes.
 
 <details>
-  <summary><b>🔍 点击展开/收起：这个repo的大致分支</b></summary>
+  <summary><b>🔍 阅读资料推荐</b></summary>
 
   <br>
 
@@ -14,17 +14,17 @@ This is a place for sociology, Lacanian psychoanalysis and LaTex learing, and of
 </details>
 
 
-> [!NOTE]
-> 核心旨趣：打破文理边界，享受代码乐趣。
+> [社会学]
+> 社会学理论分享。
 
-> [!TIP]
-> 代码学习应既有实操，也要强加阅读。
+> [拉康精神分析]
+> 一些latex做的lacan图，辅助理解。
 
-> [!IMPORTANT]
-> 坚持最重要，养成自律习惯。
+> [Latex学习]
+> 一些实用的代码，基本操作事项。
 
-> [!WARNING]
-> 最新更新版本为7.20。
+> [Godot学习]
+> 游戏开发与创作管理。
 
 <p align="center">
   <img src="https://img.shields.io/badge/Sociology-4B0082?style=for-the-badge&logo=academicpages&logoColor=white" />
