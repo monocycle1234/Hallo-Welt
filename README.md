@@ -10,3 +10,11 @@ This is a place for sociology and Godot 2D/3D learning，with a wide repertorie 
   - **latex学习**：一些实用的代码。
 
 </details>
+
+<div align="center">
+  <!-- GitHub 统计卡片 -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial&hide_border=true" />
+  
+  <!-- 常用语言比例卡片 -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radial&hide_border=true" />
+</div>
