@@ -14,16 +14,16 @@ This is a place for sociology, Lacanian psychoanalysis and LaTex learing, and of
 </details>
 
 
-> [!NOTE 社会学]
+> [!NOTE]
 > 社会学理论分享。
 
-> [拉康精神分析]
+> [!TIP]
 > 一些latex做的lacan图，辅助理解。
 
-> [Latex学习]
+> [!IMPORTANT]
 > 一些实用的代码，基本操作事项。
 
-> [Godot学习]
+> [!WARNING]
 > 游戏开发与创作管理。
 
 <p align="center">
