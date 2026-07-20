@@ -1,16 +1,5 @@
 This is a place for sociology, Lacanian psychoanalysis and LaTex learing, and of course, Godot 2D/3D learning，with a wide repertorie of pdf and other useful notes.
 
-<details>
-  <summary><b>🔍 阅读学习网站及资料汇总</b></summary>
-
-  <br>
-
-  - https://www.youtube.com/watch?v=vA-0TL62R9M&list=PL3cGrGHvkwn0sfRucpwMSOMMDvLXKdmv1。
-
-
-</details>
-
-
 <blockquote>
   <p>
     <font color="#4B0082"><b>🍇 社会学理论分享 | Sociology Theory</b></font><br>
@@ -38,6 +27,38 @@ This is a place for sociology, Lacanian psychoanalysis and LaTex learing, and of
     聚焦于<b>游戏机制设计、Goget 脚手架实践、项目管线与创作进度（Gantt/Milestone）管理</b>。
   </p>
 </blockquote>
+
+<details>
+  <summary><b>🔍 阅读学习网站及资料汇总</b></summary>
+
+  <br>
+
+  - https://www.youtube.com/watch?v=vA-0TL62R9M&list=PL3cGrGHvkwn0sfRucpwMSOMMDvLXKdmv1。
+
+
+</details>
+
+> <img src="https://img.shields.io/badge/Sociology-4B0082?style=flat-square&logo=academicpages&logoColor=white" />
+> ### ① 社会学理论分享
+> 探讨现代性、社会结构与日常生活的批判定位，包含阅读笔记与核心概念整理。
+
+---
+
+> <img src="https://img.shields.io/badge/Lacanian-8B0000?style=flat-square&logo=eclipserdf&logoColor=white" />
+> ### ② 拉康精神分析与 LaTeX 拓扑图
+> 借助矢量工具可视化主体、镜像阶段与欲望机制，让抽象的拉康理论更具可视化轴线。
+
+---
+
+> <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
+> ### ③ 实用 LaTeX 代码与注意事项
+> 整理常用模板、开箱即用的环境配置、宏定义技巧以及新手常见报错处理。
+
+---
+
+> <img src="https://img.shields.io/badge/GameDev-FF4500?style=flat-square&logo=unity&logoColor=white" />
+> ### ④ 游戏开发与创作管理
+> 记录游戏逻辑实现、架构设计、Goget 实用工具集以及项目迭代与进度把控。
 
 <p align="center">
 
